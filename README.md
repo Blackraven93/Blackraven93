@@ -24,8 +24,11 @@ Here are some ideas to get you started:
 
 ## Contact : ![Gmail](https://img.shields.io/badge/Gmail-Reblackraven@gmail.com-red?style=flat&logo=gmail&logoColor=white&labelColor=red)
 
-# Skills
-## Languages
+## Skills
+
+### Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+
+
 
 
