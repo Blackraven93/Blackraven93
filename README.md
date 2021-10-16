@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 
 ### Contact : ![Gmail](https://img.shields.io/badge/Gmail-Reblackraven@gmail.com-red?style=flat&logo=gmail&logoColor=white)
-### Contact : ![Gmail](https://img.shields.io/static/v1?label=raven&message=hello&color=red)
+### Contact : ![](https://img.shields.io/static/v1?label=raven&message=hello&color=red)
