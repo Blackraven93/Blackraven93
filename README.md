@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Blackraven93&show_icons=true&theme=nord)](https://github.com/Blackraven93)
 
-## Contact : ![Gmail](https://img.shields.io/badge/Gmail-Reblackraven@gmail.com-red?style=flat&logo=gmail&logoColor=white&labelColor=red)
+## Contact : [![Gmail](https://img.shields.io/badge/Gmail-Reblackraven@gmail.com-red?style=flat&logo=gmail&logoColor=white&labelColor=red)](https://github.com/Blackraven93)
 
 ## Skills
 
