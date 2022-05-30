@@ -29,8 +29,5 @@ Here are some ideas to get you started:
 ### Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 
-#### 약속1 의미 없는 1일 1커밋 하지말 것(차라리 하지말자)
-#### 약속2 어제보다 나아질 것
-#### 약속3 꾸준함을 유지할 것
 
 
